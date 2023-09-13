@@ -8,11 +8,6 @@
 <h3 align="center">Java Developer | Frontend Web Developer | Android Developer</h3>
 <h3 align="center">Student at Datta Meghe College Of Enginnering, Navi Mumbai🌟.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanbhasney02&label=Profile%20views&color=0e75b6&style=flat" alt="chetanbhasney02" /> </p>
-
-<p><img align="right" src="https://github.com/chetanbhasney02/chetanbhasney02/blob/main/animation_500_kxa883sd.gif" /></p>
-
-
 
 
 
