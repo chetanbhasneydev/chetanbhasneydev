@@ -27,16 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanbhasney02&show_icons=true&locale=en&layout=compact" alt="chetanbhasney02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanbhasney02&show_icons=true&locale=en" alt="chetanbhasney02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanbhasney02&" alt="chetanbhasney02" /></p>
-
-
-
-
-
-
-
 
 
 
