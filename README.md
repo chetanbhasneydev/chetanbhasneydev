@@ -56,6 +56,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanbhasney02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![An image of @chetanbhasney02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetanbhasney02)](https://holopin.io/@chetanbhasney02)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chetanbhasney02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
